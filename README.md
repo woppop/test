@@ -1,5 +1,4 @@
-xkcd
+we feel fine
 ====
-# Title: XKCD
 ## Details:
-Browse my favorite xkcd strips and view the image, title, publish date and alt text.
+See what 50 random people around the world have said when they're feeling sorry. Potential to add the time, location, and weather information for each sentence.
