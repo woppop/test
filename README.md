@@ -1,4 +1,4 @@
-we feel fine
+xkcd
 ====
 ## Details:
-See what 50 random people around the world have said when they're feeling sorry. Potential to add the time, location, and weather information for each sentence.
+Browse my favorite xkcd strips and read the alt text without having to hover over the image and read as fast as you can before it disappears
